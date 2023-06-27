@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - - - 💬 Ask me about HTML CSS JS 
 - 📫 How to reach me: priyapundhir9309@gmail.com
 - 
-- ⚡ Fun fact: I am comedian...
+- ⚡ Fun fact: I am comedian.
 -->
